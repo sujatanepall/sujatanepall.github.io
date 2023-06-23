@@ -1,0 +1,22 @@
+body { 
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+h1{
+    text-align: center;
+}
+ul{
+    list-style: none;
+    padding: 0;
+}
+li{
+    margin-bottom: 10px;
+}
+.project-title{
+    font-weight: bold;
+
+}
+.project-description{
+    margin: 5px;
+}
