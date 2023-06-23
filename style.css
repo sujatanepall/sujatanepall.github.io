@@ -1,5 +1,5 @@
 body { 
-    font-family: poppins;
+    font-family: "Poppins", sans-serif;
     margin: 20px;
     background-color: #c4d7b2;
     background: rgb(238,174,202);
@@ -9,6 +9,10 @@ body {
 
 h1{
     text-align: center;
+}
+h4{
+    text-align: right;
+
 }
 ul{
     list-style: none;
