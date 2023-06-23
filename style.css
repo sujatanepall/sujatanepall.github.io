@@ -1,10 +1,11 @@
 body { 
-    font-family: sans-serif;
+    font-family: poppins;
     margin: 20px;
     background-color: #c4d7b2;
-
-
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,233,215,1) 64%);
 }
+
 
 h1{
     text-align: center;
@@ -31,6 +32,7 @@ li{
     width: 530px;
     background-color: #f7ffe5;
     box-shadow: black;
+    border-radius: 20px;
 }
 img{
     border: 1px solid #d14747;
@@ -43,9 +45,8 @@ img{
     
 }
 h2{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    text-shadow: 1px 1px#d14747;
     font-size: 20px;
+    font: poppins;
 
 }
